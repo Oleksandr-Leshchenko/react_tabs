@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACE,WACE,eAAgB,CAEhB,YAAa,CACb,aAAS,CAAT,QAAS,CACT,cAAe,CAChB,cAGC,iBAAkB","file":"main.e0fa4fca.chunk.css","sourcesContent":[".App {\n  &__list {\n    list-style: none;\n\n    display: flex;\n    gap: 20px;\n    padding-left: 0;\n  }\n\n  &__wrapper {\n    padding-left: 50px;\n  }\n}\n"]}
